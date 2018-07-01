@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <!-- questions and answers -->
+    <!-- Question 1 -->
+    <string name="question_one">1. The African Challenge Scholarship is sponsored by which organization?</string>
+    <!-- Question 1 answers -->
+    <string name="question_one_answer_one">Microsoft</string>
+    <string name="question_one_answer_two">Google</string>
+    <string name="question_one_answer_three">Facebook</string>
+    <string name="question_one_answer_four">Apple</string>
+    <!-- Question 2 -->
+    <string name="question_two">2. When was google founded?</string>
+    <!-- Question 2 answers -->
+    <string name="question_two_answer_one">2005</string>
+    <string name="question_two_answer_two">2002</string>
+    <string name="question_two_answer_three">1995</string>
+    <string name="question_two_answer_four">1998</string>
+    <!-- Question 3 -->
+    <string name="question_three">3. In what year did google acquire android?"</string>
+    <!-- Question 3 answers -->
+    <string name="question_three_answer_one">2005</string>
+    <string name="question_three_answer_two">2002</string>
+    <string name="question_three_answer_three">2008</string>
+    <string name="question_three_answer_four">2001</string>
+    <!-- Question 4 -->
+    <string name="question_four">4. Who are the founders of google?</string>
+    <!-- Question 4 answers -->
+    <string name="question_four_answer_one">Adam Levine</string>
+    <string name="question_four_answer_two">Larry Page</string>
+    <string name="question_four_answer_three">Steve Jobs</string>
+    <string name="question_four_answer_four">Sean Carter</string>
+    <string name="question_four_answer_five">Sergey Brin</string>
+    <!-- Question 5 -->
+    <string name="question_five">5. Google initial name was</string>
+    <!-- Button text -->
+    <string name="button_text">Submit</string>
+
+    <!-- Reset Button on App Bar -->
+    <string name="reset">Reset</string>
+    <!-- Exit Text -->
+    <string name="exit">Exit</string>
+</resources>
